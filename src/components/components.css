@@ -1,0 +1,38 @@
+*{
+    font-family: 'Open Sans Condensed', sans-serif;
+    background-color: white;
+ }
+ 
+ .footerBot{
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+
+}
+
+.header {
+    height: 100px;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    text-align: center;
+  }
+
+
+.socialImage{
+
+    width: 25px;
+    margin: 10px;
+    float: right;
+    color: white;
+}

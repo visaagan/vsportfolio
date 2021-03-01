@@ -1,0 +1,48 @@
+.resume{
+    text-align: center;
+    letter-spacing: 0.3em;
+    font-weight: 700;
+    padding-bottom: 25px;
+    padding-top: 25%;
+    font-size: 11px;
+    text-transform: uppercase;
+  
+    
+   
+}
+
+.education{
+    width: 50%;
+    height: 50%;
+    margin: 0 auto;
+    text-transform: uppercase;
+    font-weight: 700;
+    
+    
+}
+.icon{
+    width: 35px;
+    height: 35px;
+}
+
+.right{
+    float: right;
+      
+}
+
+
+.schoolImage{
+    width: 200px;
+    height: 80px;
+    float: left;
+    display: block;
+}
+
+.desc{
+    left: 0;
+    line-height: 20px;
+    position: absolute;
+    text-align: center;
+    top: 25%;
+    width: 125%;
+}

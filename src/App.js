@@ -1,18 +1,23 @@
 import React from "react";
 
+import Header from "./components/Header.js"
+import SocialMedia from "./components/SocialMedia.js";
+import Resume from "./components/Resume/Resume.js"
+import Footer from "./components/Footer.js";
+import './components/components.css'
+import './App.css'
 
-import Name from "./components/Name"
-import Resume from "./components/Resume"
 
 
 
 function App() {
     return (
        
-            <div>
-                <Name />
-                {/*Background />*/}
+            <div  >
+                <Header />
+                <SocialMedia />
                 <Resume />
+                <Footer />
             </div>
  
     )
